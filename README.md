@@ -35,7 +35,6 @@ Projenin tüm akademik detaylarına aşağıdaki PDF belgelerinden ulaşabilirsi
 * [Final Raporu (Final Report)](./docs/ES_ATIK_Final_Report.pdf)
 * [Ara Rapor (Midterm Report)](./docs/ES_ATIK_Midterm_Report.pdf)
 * [Final Sunumu (Final Presentation)](./docs/ES_ATIK_Final_Presentation.pdf)
-* [Ara Sunum (Midterm Presentation)](./docs/ES_ATIK_Midterm_Presentation.pdf)
 
 ---
 *Bu proje akademik bir simülasyon çalışmasıdır.*
